@@ -1,0 +1,9 @@
+## Ignore output files, workspace, and temporary folders from the repository
+
+# folders
+[Ww]orkspace/
+.bmx/
+
+# executable files and backups
+*.exe
+*.bak
